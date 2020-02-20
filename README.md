@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hosted on ipfs, YOU START, YOU CHAT 
+(https://ipfs.io/ipfs/Qme452AoxX3w41PcxHisWbrrzxqUM4K1zEEfAMdQtpBYLc/)
 
 ## Available Scripts
 
