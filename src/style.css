@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Code:300|Space+Mono&display=swap');
+
+body {
+  font-family: 'Fira Code', monospace;
+  font-size: 2vw;
+  margin: 20px;
+  background-color: #1d1d1d;
+  color: white;
+}
+
+ol, ul {
+  padding-left: 30px;
+}
+
+.chat-row:after {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+.status {
+  margin-bottom: 10px;
+}
+
+
+.peer-id {
+  margin-top: 5%;
+}
+
+.id-code {
+  font-weight: bold;
+  color: #20c138;
+}
+
+input#remotepeer {
+  font-family: monospace;
+  width: 25vw;
+  height: 3vw;
+  font-size: 2.5vw;
+  line-height: 2vw;
+  background-color: 
+  #fff;
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
+input.connect-button {
+  display: inline-block;
+  box-sizing: content-box;
+  width: 14vw;
+  height: 3vw;
+  margin: 0;
+  border: none;
+  background-color: #1976d2;
+  color: white;
+  font-family: 'Space Mono', monospace;
+  font-size: 2vw;
+  line-height: 2vw;
+  padding: 0;
+  cursor: pointer;
+}
+
+input.connect-button:active {
+  background-color: #004ba0;
+}
+
+.square:focus {
+  outline: none;
+}
+
+.kbd-navigation .square:focus {
+  background: #ddd;
+}
+
+.game {
+  display: flex;
+  flex-direction: row;
+}
+
+.game-info {
+  margin-left: 20px;
+}
+
+.lobby {
+  /*position: absolute;*/
+  right: 10%;
+  top: 2%;
+  width: 42vw;
+  overflow: hidden;
+}
+
+.chat-list {
+  background: #f1f2f3;
+  font-family: "Open Sans", sans-serif;
+  margin: 0 auto;
+  max-width: 800px;
+}
+.list ul {
+  list-style-type: square;
+}
+
+.list ul li {
+  cursor: pointer;
+}
+
+.list ul li:active {
+  color: darkgrey;
+}
