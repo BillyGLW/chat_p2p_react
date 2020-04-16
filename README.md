@@ -1,5 +1,5 @@
 WRITTEN IN REACT, LIVING ON IPFS, YOU FIND, YOU CHAT 
-(https://ipfs.io/ipfs/Qme452AoxX3w41PcxHisWbrrzxqUM4K1zEEfAMdQtpBYLc/)
+(https://cloudflare-ipfs.com/ipfs/Qme452AoxX3w41PcxHisWbrrzxqUM4K1zEEfAMdQtpBYLc)
 
 ## Available Scripts
 
